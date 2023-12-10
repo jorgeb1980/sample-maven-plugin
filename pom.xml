@@ -50,7 +50,7 @@
   </dependencies>
 
   <name>sample-maven-plugin</name>
-  <packaging>jar</packaging>
+  <packaging>maven-plugin</packaging>
 
   <distributionManagement>
     <repository>
